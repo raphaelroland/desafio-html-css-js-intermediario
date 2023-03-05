@@ -1,7 +1,5 @@
 # Desafio HTML + CSS + JS Intermediário
 
-## Features
-
 Neste projeto do DevQuest:
 * Criar um formulário com validação;
 * A validação do formulário deve ser feita com
