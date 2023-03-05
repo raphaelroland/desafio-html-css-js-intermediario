@@ -1,7 +1,7 @@
 body { 
     width: 100vw;
     height: 100%;
-    background: url(../image/bg-repeat.jpg) repeat-x;
+    background: url(../img/bg-repeat.jpg) repeat-x;
     background-size: 100% 100%;
 }
 
@@ -15,7 +15,7 @@ main {
     border-radius: 10px;
 }
 
-.text {
+.help {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -24,7 +24,7 @@ main {
     color: #FFFFFF;
 }
 
-.text > h1 {
+.help > h1 {
     text-transform: uppercase;
     font-family: 'roboto';
     font-weight: 900;
@@ -32,7 +32,7 @@ main {
     line-height: 23px;
 }
 
-.text > p {
+.help > p {
     font-family: 'roboto';
     font-weight: 400;
     font-size: 15px;
@@ -121,12 +121,12 @@ span {
         gap: 80px;
     }
 
-    .text, .formulario {
+    .help, .formulario {
         width: 90vw;
         margin: 0;
     }
 
-    .text {
+    .help {
         height: 15%;
     }
 
