@@ -1,7 +1,7 @@
 # Desafio HTML + CSS + JS Intermediário
 
 Neste projeto do DevQuest:
-* Criar um formulário com validação;
+* Criar um formulário com validação.
 * A validação do formulário deve ser feita com
 javascript puro.
 * Ao clicar para enviar o formulário, se caso
@@ -13,7 +13,7 @@ figma.
 * O fundo do formulário deve ser feito usando a
 imagem em anexo na aula.
 
-## Agradecimento especial ao curso DevQuest e a todos os membros da Guilda DevQuest!
+### Agradecimento especial ao curso DevQuest e a todos os membros da Guilda DevQuest!
 
 # Links:
 
